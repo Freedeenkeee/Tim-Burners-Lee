@@ -1,0 +1,85 @@
+body{
+ text-align: center;   
+}
+img{
+ width: 300px;
+ height: 250px;
+padding-top: 80px;
+}
+h1{
+font-size: 45px;
+}
+h2{
+font-size: 35px;
+}
+h3{
+font-size: 30px;
+}
+p{
+font-size: 25px;
+line-height: 1.5;
+margin-left: 50px;
+margin-right: 50px;
+}
+#welcome{
+background: linear-gradient(#87ecb2,#3e6c6c);
+padding-bottom: 20px;
+
+}
+.menu{
+position: fixed;
+background: white;
+width: 100%;
+top: 0px;
+margin-top: 0px;
+z-index: 10;
+cursor:pointer;
+}
+.links{
+display: inline;
+padding-right: 25x;
+padding-left: 33px;
+font-family: fantasy;
+font-size: 20px;
+}
+#name{
+font-size: 50px;
+font-family: 'Cormorant SC', serif;
+}
+#bio{
+font-family: 'Rubik Moonrocks', cursive;
+padding: 50px;
+}
+.line{
+height: 6px ;
+background-color: black;
+width: 70px;
+margin: 8px auto;
+
+}
+.parallax-inner{
+display: table-cell;
+vertical-align: middle;
+
+}
+a 
+{text-decoration: none;}
+
+.links:hover {
+font-size: 25px;
+text-decoration: underline;
+}
+#writings a{
+text-decoration: underline !important;
+color: green !important;
+}
+
+#contact{
+background: lightgray;
+}
+
+.contact_1 h3
+{
+    display: inline;
+}
+
